@@ -1,4 +1,4 @@
-# 🏦 Banking Management System
+# Project Day-2
 
 A backend-based Banking Management System built using Spring Boot that allows users to manage bank accounts and perform secure financial transactions through RESTful APIs.
 
